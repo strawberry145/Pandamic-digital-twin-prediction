@@ -1,4 +1,4 @@
-# Pandemic Digital Twin Prototype
+# Pandemic Digital Twin 
 
 This repository now includes `pandemic_digital_twin.py`, a prototype pipeline for pandemic risk and case prediction using `public_health_surveillance_dataset.csv`.
 
